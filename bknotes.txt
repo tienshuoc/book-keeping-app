@@ -1,0 +1,74 @@
+11/1
++3300 pocket money
+-25 snack 
+-80 incidental expenses 
+
+11/2
+-160 * lunch 
+-96 bus
+
+11/3
+-90 lunch 
+-530 * dinner
+
+11/4
+-220 * dinner 
+-60 snack 
+
+11/5
+-90 dinner
+
+11/6
+-75 dinner
+
+11/7
+-310 * lunch 
+
+11/8
+-275 dinner 
+
+11/9
+-98 lunch 
+
+11/10
+-104 lunch 
+
+11/11
+-230 * lunch
++2000 pocket money 
+-537 dinner 
+-500 悠遊卡
+
+11/12
+-130 lunch 
++1390 repayment
++75 repayment
+
+11/13
+-112 lunch
+
+11/19
++4500 pocket money 
+-105 bus
+
+11/20
+-205 dinner
++109 repayment 
+
+11/22
+-180 lunch
+-15 drink
+
+11/23
+-300 * lunch 
+
+11/24
+-95 dinner
+-64 drink 
+
+11/25
+-40 snack 
+-50 snack 
+-105 bus
+-90 incidental expenses 
++680 repayment

@@ -1,0 +1,8 @@
+2021.04
+   total expense: 8387
+   total income: 8964
+
+2021.05
+   total expense: 4084
+   total income: 5060
+
