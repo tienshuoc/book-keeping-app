@@ -87,7 +87,8 @@ def plot_piechart(source_dict, figure_title):
 
 YEAR_DATE = "2021.05"
 
-with open("./Archived/記帳 " + YEAR_DATE + ".txt", "r") as bknotes:
+# with open("./Archived/記帳 " + YEAR_DATE + ".txt", "r") as bknotes:
+with open ("./bknotes.txt") as bknotes:
     # global containers &
     #  analyzer variables
     expense_by_category = defaultdict(int)
@@ -120,6 +121,12 @@ with open("./Archived/記帳 " + YEAR_DATE + ".txt", "r") as bknotes:
         if len(entry) == 1:  # date
             date_of_month = entry[0].split("/")[1]
         else:
+            # Strip '$' sign if present.
+            '''
+            -100 lunch
+            -$100 lunch
+            '''
+            entry[0] = entry[0].replace('$', '')
             # number of people paid for (not including self)
             paid_for_nb_of_people = 0
             for idx, el in enumerate(entry):
